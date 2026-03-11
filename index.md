@@ -1,5 +1,7 @@
 experiments in markdown
 
+<a href="https://google.com">Google </a><span class="info">new</div>
+
 new
 {: .info }
 
