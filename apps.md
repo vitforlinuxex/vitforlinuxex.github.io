@@ -1,6 +1,6 @@
 experiments in markdown
 
-<input id="search" placeholder="Cerca..." oninput="filtraTabella(this.value)" type="text">
+    <input id="search" placeholder="Cerca..." oninput="filtraTabella(this.value)" type="text">
 
 | This      | table | looks | quite | ugly    |
 |-----------|-------|-------|-------|---------|
