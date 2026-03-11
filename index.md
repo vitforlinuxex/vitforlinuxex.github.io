@@ -5,6 +5,8 @@ experiments in markdown
 new
 {: .info }
 
+<input id="searchBar" onkeyup="searchContent()" placeholder="Cerca parole chiave..." type="text">
+
 | This      | table | looks | quite | ugly    |
 |-----------|-------|-------|-------|---------|
 | Sometimes | you   | don't | want  | headers |    {: .info }
