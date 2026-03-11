@@ -1,6 +1,6 @@
 experiments in markdown
 
-<script src="../assets/js/search.js"><\/script>
+<script src="../assets/js/search.js"/>
 
   
 <style type="text/css">
