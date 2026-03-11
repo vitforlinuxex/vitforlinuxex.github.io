@@ -11,3 +11,4 @@ new
 |-----------|-------|-------|-------|---------|
 | Sometimes | you   | don't | want  | headers |
 | Sometimes | you   | don't | want  | headers |
+{: .info }
