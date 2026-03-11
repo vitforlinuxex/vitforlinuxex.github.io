@@ -1,6 +1,6 @@
 experiments in markdown
 
-<script src="../assets/js/search.js"></script>
+
 
 <markdown-off>{% <script src="../assets/js/search.js"></script> %}</markdown-off>
 
