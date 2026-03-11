@@ -1,5 +1,11 @@
 experiments in markdown
 
+<style type="text/css">
+  a {
+    border: 1px solid red;
+  }
+</style>
+
 <a href="https://google.com">Google </a><span class="info">new</span>
 
 new
