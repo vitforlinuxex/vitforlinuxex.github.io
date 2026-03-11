@@ -12,6 +12,6 @@ experiments in markdown
 | Sometimes | you   | don't | want  | headers |
 | Qualcosa | che   | vuoi | vedere  | cercando |
 
-{: .info }
+
 
 
