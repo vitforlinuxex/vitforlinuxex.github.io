@@ -3,7 +3,7 @@ experiments in markdown
 <a href="https://google.com">Google </a><span class="info">new</span>
 
 new
-{: .info }
+{: .info } 
 
 <input id="searchBar" onkeyup="searchContent()" placeholder="Cerca parole chiave..." type="text">
 
