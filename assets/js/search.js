@@ -1,4 +1,4 @@
-    <script>
+
         function searchContent() {
             // Prende il valore della ricerca e lo converte in minuscolo
             let input = document.getElementById('searchBar').value.toLowerCase();
@@ -13,4 +13,4 @@
                 }
             }
         }
-    </script>
+
