@@ -1,16 +1,24 @@
+function filtraTabella(testoRicerca) {
+  const tuttiITbody = document.querySelectorAll('tbody');
 
-        function searchContent() {
-            // Prende il valore della ricerca e lo converte in minuscolo
-            let input = document.getElementById('searchBar').value.toLowerCase();
-            let items = document.getElementsByClassName('searchable');
+  tuttiITbody.forEach(tbody => {
+    const righe = tbody.querySelectorAll('tr');
 
-            for (let i = 0; i < items.length; i++) {
-                // Controlla se il testo dell'elemento contiene la stringa cercata
-                if (items[i].innerText.toLowerCase().includes(input)) {
-                    items[i].classList.remove('hidden'); // Mostra
-                } else {
-                    items[i].classList.add('hidden'); // Nasconde
-                }
-            }
-        }
+    righe.forEach(tr => {
+      // Se il tr contiene almeno un th, non lo nascondiamo mai
+      if (tr.querySelector('th')) {
+        tr.style.display = ''; // mostra sempre
+        return;
+      }
 
+      const testoRiga = tr.textContent.toLowerCase();
+      const testoRic = testoRicerca.toLowerCase();
+
+      if (testoRiga.includes(testoRic)) {
+        tr.style.display = '';
+      } else {
+        tr.style.display = 'none';
+      }
+    });
+  });
+}
