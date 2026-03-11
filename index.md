@@ -5,5 +5,5 @@ new
 
 | This      | table | looks | quite | ugly    |
 |-----------|-------|-------|-------|---------|
-|{: .searchable } Sometimes | you   | don't | want  | headers |
-|{: .searchable } Sometimes | you   | don't | want  | headers |
+| Sometimes | you   | don't | want  | headers |{: .info }
+| Sometimes | you   | don't | want  | headers |
