@@ -1,3 +1,4 @@
 experiments in markdown
 
-new{: .info }
+new
+{: .info }
