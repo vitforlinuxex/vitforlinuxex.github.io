@@ -2,7 +2,7 @@ experiments in markdown
 
 <script src="../assets/js/search.js"></script>
 
-<markdown-off><script src="../assets/js/search.js"></script></markdown-off>
+<markdown-off>{% <script src="../assets/js/search.js"></script> %}</markdown-off>
 
 <input id="search" placeholder="Cerca..." oninput="filtraTabella(this.value)" type="text">
 
