@@ -9,5 +9,6 @@ experiments in markdown
 | Qualcosa | che   | vuoi | vedere  | cercando |
 
 
-
+{% raw %} 
 <script src="../assets/js/search.js"></script>
+{% endraw %}
