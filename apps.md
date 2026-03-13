@@ -12,5 +12,8 @@ experiments in markdown
 nave
 
 {% raw %} 
+
                         <script src="../assets/js/search.js"></script>
+
 {% endraw %}
+
