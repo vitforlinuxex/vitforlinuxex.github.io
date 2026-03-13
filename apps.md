@@ -10,5 +10,5 @@ experiments in markdown
 
 room
 
-{% raw %} <script src="../assets/js/search.js"></script>{% endraw %}
+        {% raw %} <script src="../assets/js/search.js"></script>{% endraw %}
 
