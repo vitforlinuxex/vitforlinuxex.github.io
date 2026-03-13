@@ -8,12 +8,11 @@ experiments in markdown
 | Sometimes | you   | don't | want  | headers |
 | Qualcosa | che   | vuoi | vedere  | cercando |
 
-
-nave
+bici
 
 {% raw %} 
 
-                        <script src="../assets/js/search.js"></script>
+<script src="../assets/js/search.js"></script>
 
 {% endraw %}
 
