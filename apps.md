@@ -9,7 +9,7 @@ experiments in markdown
 | Qualcosa | che   | vuoi | vedere  | cercando |
 
 
-pino
+nave
 
 {% raw %} 
                         <script src="../assets/js/search.js"></script>
